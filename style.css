@@ -365,7 +365,7 @@ h4 {
 }
 .arrow-up {
     position: absolute;
-    background:url("../resident/assets/img/arrow-up.png");
+    background:url("../assets/img/arrow-up.png");
     z-index: 1001;
     left: 362px;
     top: 121px;
@@ -602,7 +602,7 @@ th, td {
     color: #262B38;
 }
 .bundle-point {
-    background-image: url("../resident/assets/img/checkcircle.png");
+    background-image: url("../assets/img/checkcircle.png");
     background-repeat: no-repeat;  
     background-size: 22px;
     padding-left:32px;
